@@ -14,6 +14,8 @@ We took input from the soil moisture sensor, pushed buttons, real-time clock and
     - Mosquito Repellent Status (Auto On/Off)
     - Moisture Content 
     - Real time clock
+  - Push Button
+    - Override the scheduled time of Mosquito Repellent  
 
 ## Technologies Used:-
   - Eagle Cad
